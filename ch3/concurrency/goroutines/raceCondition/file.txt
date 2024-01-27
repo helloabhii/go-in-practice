@@ -1,0 +1,1 @@
+this is a file going to be tested with race condition checking words how many times written . I want to see that can it count numbers also 1 2 3 4 71 69 1 71 69. i want to check it 
