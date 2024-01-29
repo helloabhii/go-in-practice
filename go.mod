@@ -3,6 +3,7 @@ module github.com/helloabhii/go-in-practice
 go 1.21.3
 
 require (
+	github.com/Masterminds/cookoo v1.3.0
 	github.com/kylelemons/go-gypsy v1.0.0
 	sigs.k8s.io/kustomize/kyaml v0.16.0
 )
